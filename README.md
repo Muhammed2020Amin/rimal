@@ -1,4 +1,4 @@
-# رمال (Rimal)
+# دهناء (Dahna)
 
 ثيم واجهات متاجر **سلة** مبني على محرك **Twilight React** الرسمي —
 TanStack Start + workerd SSR + محرر ثيمات مدمج على `/__twilight/editor`.
@@ -41,4 +41,4 @@ twilight.json   بيان الثيم: الإعدادات والمكونات (يو
 vite.config.ts  إ twilightReact() — لا يحتاج الثيم خادماً من عنده
 ```
 
-MIT © Rimal
+MIT © Dahna
