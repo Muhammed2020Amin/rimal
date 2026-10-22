@@ -1,0 +1,1 @@
+import{Kr as e,t}from"./shared-home-E7MZ7Gej.js";import{y as n}from"./hydrate-VVJNazm6.js";var r=e();function i(){let e=n.useLoaderData();return(0,r.jsx)(t,{...e},e.product.id)}export{i as component};

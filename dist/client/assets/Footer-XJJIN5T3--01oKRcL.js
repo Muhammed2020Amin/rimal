@@ -1,0 +1,1 @@
+export{sn as Footer}from"./shared-home-E7MZ7Gej.js";

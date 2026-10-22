@@ -1,0 +1,1 @@
+export{Kt as WidgetHead}from"./shared-home-E7MZ7Gej.js";

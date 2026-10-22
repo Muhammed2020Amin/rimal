@@ -1,0 +1,1 @@
+import{Kr as e,cn as t,cr as n}from"./shared-home-E7MZ7Gej.js";var r=e();function i({storeName:e=``}){let{t:i}=n(),a=new Date().getFullYear();return(0,r.jsxs)(r.Fragment,{children:[i(`blocks.footer.copyright`,`Copyright`),` | `,a,` `,(0,r.jsx)(t,{to:`/`,className:`hover:text-primary`,children:e}),` `]})}export{i as Copyright};
